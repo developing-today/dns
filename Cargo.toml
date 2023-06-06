@@ -32,7 +32,7 @@ redis = "0.12"
 actix-web = { version = "3.3", default-features = false }
 actix-web-httpauth = "0.5"
 trust-dns = { version = "0.14", default-features = false }
-trust-dns-server = { version = "0.14", default-features = false }
+trust-dns-server = { version = "0.22", default-features = false }
 trust-dns-proto = { version = "0.4", default-features = false }
 trust-dns-resolver = { version = "0.10", default-features = false }
 futures = "0.1"
